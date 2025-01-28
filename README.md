@@ -1,2 +1,12 @@
-# Silver-Calculator
-Basic Calculator, My First Python To Exe Program.
+# Silver Calculator
+
+A modern calculator built with PyQt5.
+
+## Features
+- Basic arithmetic operations.
+- Clean modern UI.
+- Light and dark themes.
+
+## Installation
+
+1. Clone the repository:

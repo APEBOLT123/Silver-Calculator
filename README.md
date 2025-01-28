@@ -10,3 +10,7 @@ A modern calculator built with PyQt5.
 ## Installation
 
 1. Clone the repository:
+
+Or,
+
+Install the newest release.

@@ -14,7 +14,7 @@ A modern calculator built with PyQt5.
 
 ## About The Size Of The Exe.
 
-I used PyInstaller to compile it, for some reason it made a very basic file 36 MB,
+I used PyInstaller to compile it, for some reason it made a very basic file 35 MB,
 Maybe over the icon but im not sure.
 Sorry.
 

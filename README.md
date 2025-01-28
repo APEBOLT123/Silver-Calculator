@@ -10,3 +10,10 @@ A modern calculator built with PyQt5.
 ## Installation
 
 1. Clone the repository:
+
+
+## About The Size Of The Exe.
+
+I used PyInstaller to compile it, for some reason it made a very basic file 36 MB,
+Maybe over the icon but im not sure.
+Sorry About That!

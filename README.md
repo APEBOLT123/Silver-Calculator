@@ -20,6 +20,6 @@ Sorry.
 
 ## Virus Total,
 
-Pyinstaller makes Virus Total and other detectors detect a virus within the app,
+PyInstaller makes Virus Total and other detectors detect a virus within the app,
 https://www.virustotal.com/gui/file/db7429c36d1429f5ff2a014bb9fc61a431d12834917655bff8cc85dbc06352d2.
 
